@@ -1,0 +1,37 @@
+{
+  "name": "feathers-hooks-disable-multi-item-create",
+  "version": "1.0.0",
+  "description": "Feathers hook that prevents multiple items from being created in a single 'create' call to a resource.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha ./test"
+  },
+  "author": "Shrey Jain",
+  "bugs": {
+    "url": "https://github.com/shreyjain1994/feathers-hooks-disable-multi-item-create/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shreyjain1994/feathers-hooks-disable-multi-item-create.git"
+  },
+  "keywords": [
+    "feathers",
+    "feathersjs",
+    "hook",
+    "hooks",
+    "multi-create",
+    "create"
+  ],
+  "homepage": "https://github.com/shreyjain1994/feathers-hooks-disable-multi-item-create#readme",
+  "license": "MIT",
+  "dependencies": {
+    "feathers-errors": "^2.8.2",
+    "feathers-hooks-common": "^3.5.5"
+  },
+  "devDependencies": {
+    "feathers": "^2.1.7",
+    "feathers-hooks": "^2.0.2",
+    "feathers-memory": "^1.1.0",
+    "mocha": "^3.4.2"
+  }
+}
