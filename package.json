@@ -1,6 +1,6 @@
 {
   "name": "feathers-hooks-disable-multi-item-create",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Feathers hook that prevents multiple items from being created in a single 'create' call to a resource.",
   "main": "index.js",
   "scripts": {

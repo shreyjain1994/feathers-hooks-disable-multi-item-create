@@ -3,6 +3,10 @@
 A feathersjs hook that prevents creating multiple resources
 in a single `create` call.
 
+## Installation
+
+    npm install feathers-hooks-disable-multi-item-create
+
 ## Usage
 
 ```javascript
